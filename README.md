@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dappdavid
+- 👀 I’m interested in cryptocurrency/web3 development, more specifically the @cosmos ecosystem.
+- 🌱 I’m currently learning rust, golang, cosmwasm, solidity, reactjS and typescript.
