@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @dappdavid
-- I like working with Java,Golang, Rust, Spring Boot, Microservices, Typescript, NodeJS, SQL, MongoDB, PostgreSql and ReactJS.
+
