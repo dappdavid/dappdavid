@@ -1,8 +1,7 @@
-> [dappdavid99@gmail.com](mailto:dappdavid99@gmail.com) | 
-[+91 8830809515](tel:+918830809515) | https://github.com/dappdavid
 
 # David John  &ndash; Senior Software Engineer
-
+> [LinkedIn](https://www.linkedin.com/in/dappdavid) | [Email](mailto:dappdavid99@gmail.com) | 
+[+91 8830809515](tel:+918830809515) 
 ## Summary
 
 - A passionate, hands-on professional, I have 10+ years of experience in backend software development. 
