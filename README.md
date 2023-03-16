@@ -22,11 +22,11 @@
 
 ## Tools
 
-- Design Framework -  Design Patterns, SOLID principles
-- Automation Software - Maven, Jenkins, SOAPUI, SonarQube.
-- Content Management System - Confluence, Jira, Sharepoint, Agile Central.
-- Version Control System - GIT, SVN, BitBucket
+- Design Frameworks -  Design Patterns, SOLID principles
 - Application servers: Apache Tomcat, Oracle Weblogic, IBM Websphere.
+- Version Control Systems - GIT, SVN, BitBucket
+- Automation Software - Maven, Jenkins, SOAPUI, SonarQube.
+- Content Management Systems - Confluence, Jira, Sharepoint, Agile Central.
 - Code Editors - Eclipse IDE, Intellij, SQL developer, TOAD
 - Other tools - Splunk, Checkmarx, Putty, Filezilla
 
@@ -39,7 +39,7 @@ Project Lead
 **Mastercard, Pune**  
 Senior Software Engineer  
 *January 2020 &ndash; December 2021*  
-Technologies - Java 8, SpringBoot, Microservices  
+Technologies - Java 8, Spring Boot, Microservices  
 Domain - Payments   
 
 - Designed and developed "Batch UI" functionality in Spring Boot, Spring Batch and Microservices which allows branch users to upload transaction files and convert them into acceptable format seamlessly.
@@ -49,7 +49,7 @@ Domain - Payments
 **Zensar Technologies, Pune**  
 Senior Software Engineer  
 *September 2018 &ndash; December 2019*  
-Technologies &ndash; Java 8, SpringBoot, Microservices  
+Technologies &ndash; Java 8, Spring Boot, Microservices  
 Domain &ndash; Ecommerce  
 
 - Designed and developed the end-to-end “Assign Accounts to Collector” module using Spring Boot, Spring Security, Hibernate and JSP which allows debt accounts to be assigned to collector agents.
