@@ -77,7 +77,6 @@ Domain &ndash; Payments
 - Resolved various defects (payment processing related) for end-to-end payment process in GPP engine.
 
 <br> 
-<br> 
 
 **Infosys Limited, Pune**  
 Senior Software Engineer  
