@@ -34,7 +34,9 @@
 
 **Persistent Systems, Pune**  
 Project Lead  
-*March 2023 - Present*  
+*March 2023 - Present* 
+<br> 
+<br> 
 
 **Mastercard, Pune**  
 Senior Software Engineer  
@@ -45,6 +47,8 @@ Domain - Payments
 - Designed and developed "Batch UI" functionality in Spring Boot, Spring Batch and Microservices which allows branch users to upload transaction files and convert them into acceptable format seamlessly.
 - Implemented Auto retry and recovery feature in legacy project for retrying failed file transfers using RabbitMQ dead letter queues.
 - Created a Sync Utility using Spring Boot to be used by Biz Ops team to sync Cardholder data from one project to another, saving hours of manual work.
+<br> 
+<br> 
 
 **Zensar Technologies, Pune**  
 Senior Software Engineer  
@@ -57,6 +61,9 @@ Domain &ndash; Ecommerce
 - Built the complete “Difficult Accounts” module for assigning defaulter debt accounts to legal authorities.
 - Using Java 8’s Stream API, decreased the number of database calls significantly during page load, and thus lowered the page loading time by 80%.
 
+<br> 
+<br> 
+
 **Mindtree Limited, Pune**  
 Module Lead  
 *June 2017 &ndash; August 2018*  
@@ -68,6 +75,9 @@ Domain &ndash; Payments
 - Implemented core functionality of “Membership Upload” profile for a payments clearing house in Greece.
 - Developed automation test cases in SoapUI using Groovy scripts to assist the testers to test for different payment scenarios in much quicker time (Before: 20 minutes per scenario, After: 1 minute per scenario).
 - Resolved various defects (payment processing related) for end-to-end payment process in GPP engine.
+
+<br> 
+<br> 
 
 **Infosys Limited, Pune**  
 Senior Software Engineer  
