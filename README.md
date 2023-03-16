@@ -94,4 +94,3 @@ B.E in Electronics and Telecommunication
 
 - Hobbies: Movies, Music, Tennis and Astronomy.
 - Spoken Languages: English and Hindi.
-- Date of birth: 01- May- 1990.
