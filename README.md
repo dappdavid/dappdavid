@@ -19,7 +19,7 @@
 - Testing - JUnit, Mockito
 - Architectural Pattern - Microservices, Model View Controller, n-tier application
 - Documentation - OpenAPI (swagger)
-- Methodology - Agile, Scrum, Design Patterns, Object-Oriented Programming, Waterfall model.
+- Methodology - Agile, Scrum, Design Patterns, Object-Oriented Programming, Data Structures and Algorithms, Waterfall model.
 
 ## Tools
 
