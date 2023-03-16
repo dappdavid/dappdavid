@@ -92,5 +92,5 @@ B.E in Electronics and Telecommunication
 
 ## Personal Details
 
-- Hobbies: Movies, Music, Tennis and Astronomy.
+- Hobbies: Movies, Music, Cricket, Tennis and Astronomy.
 - Spoken Languages: English and Hindi.
