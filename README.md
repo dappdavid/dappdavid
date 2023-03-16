@@ -36,7 +36,6 @@
 Project Lead  
 *March 2023 - Present* 
 <br> 
-<br> 
 
 **Mastercard, Pune**  
 Senior Software Engineer  
@@ -47,7 +46,6 @@ Domain - Payments
 - Designed and developed "Batch UI" functionality in Spring Boot, Spring Batch and Microservices which allows branch users to upload transaction files and convert them into acceptable format seamlessly.
 - Implemented Auto retry and recovery feature in legacy project for retrying failed file transfers using RabbitMQ dead letter queues.
 - Created a Sync Utility using Spring Boot to be used by Biz Ops team to sync Cardholder data from one project to another, saving hours of manual work.
-<br> 
 <br> 
 
 **Zensar Technologies, Pune**  
@@ -61,7 +59,6 @@ Domain &ndash; Ecommerce
 - Built the complete “Difficult Accounts” module for assigning defaulter debt accounts to legal authorities.
 - Using Java 8’s Stream API, decreased the number of database calls significantly during page load, and thus lowered the page loading time by 80%.
 
-<br> 
 <br> 
 
 **Mindtree Limited, Pune**  
