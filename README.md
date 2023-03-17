@@ -18,17 +18,17 @@
 - Message Brokers - Apache Kafka, RabbitMQ, ActiveMQ
 - Testing - JUnit, Mockito.
 - Caching - Redis, Memcached.
-- Architectural Pattern - Microservices, Event Driven Architecture, Model View Controller, n-tier application.
+- Architectural Patterns - Microservices, Event Driven Architecture, Model View Controller, n-tier application.
 - DevOps - Docker, Kubernetes, CICD using Jenkins.
 - Documentation - OpenAPI (swagger), Confluence.
-- Methodology - Object-Oriented Programming, Design Patterns,  Data Structures and Algorithms, Agile, Scrum, Waterfall model.
+- Methodologies - Object-Oriented Programming, Design Patterns,  Data Structures and Algorithms, Agile, Scrum, Waterfall model.
 
 ## Tools
 
 - Design Frameworks -  Design Patterns, SOLID principles, ACID, 12 factor app.
 - Servers: Apache Tomcat, Oracle Weblogic, IBM Websphere, Nginx.
 - Version Control Systems - GIT, SVN, BitBucket
-- Automation Software - Maven, Jenkins, SOAPUI, SonarQube.
+- Automation Softwares - Maven, Jenkins, SOAPUI, SonarQube.
 - Content Management Systems - Confluence, Jira, Sharepoint, Agile Central (Rally).
 - Code Editors - Eclipse IDE, Intellij, SQL developer, TOAD, Notepad++, SublimeText.
 - OS - Windows, Unix.
