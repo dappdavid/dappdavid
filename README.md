@@ -10,25 +10,29 @@
 
 ## Skills
 
-- Programming Languages -  Java 8, SQL
-- Frameworks - Spring Boot, Spring Security, Spring MVC, Spring AOP, Spring Batch, Spring Transaction, Hibernate
-- API - REST API, SOAP Webservices.
-- Databases - SQL DB ( MySql, Oracle), NOSQL DB (MongoDb, Redis)
-- Message Brokers - RabbitMQ
-- Testing - JUnit, Mockito
-- Architectural Pattern - Microservices, Model View Controller, n-tier application
-- Documentation - OpenAPI (swagger)
-- Methodology - Agile, Scrum, Design Patterns, Object-Oriented Programming, Data Structures and Algorithms, Waterfall model.
+- Programming Languages -  Java.
+- Frameworks - Spring Boot, Spring Security, Spring MVC, Spring AOP, Spring Batch, Spring Transaction, Hibernate.
+- API - REST API, SOAP Webservices, GraphQL, RPC.
+- SQL Databases - MySql, Oracle, PostgreSQL.
+- NoSQL Databases - MongoDb, Elasticsearch, Cassandra.
+- Message Brokers - Apache Kafka, RabbitMQ, ActiveMQ
+- Testing - JUnit, Mockito.
+- Caching - Redis, Memcached.
+- Architectural Pattern - Microservices, Event Driven Architecture, Model View Controller, n-tier application.
+- DevOps - Docker, Kubernetes, CICD using Jenkins.
+- Documentation - OpenAPI (swagger), Confluence.
+- Methodology - Object-Oriented Programming, Design Patterns,  Data Structures and Algorithms, Agile, Scrum, Waterfall model.
 
 ## Tools
 
-- Design Frameworks -  Design Patterns, SOLID principles
-- Application servers: Apache Tomcat, Oracle Weblogic, IBM Websphere.
+- Design Frameworks -  Design Patterns, SOLID principles, ACID, 12 factor app.
+- Servers: Apache Tomcat, Oracle Weblogic, IBM Websphere, Nginx.
 - Version Control Systems - GIT, SVN, BitBucket
 - Automation Software - Maven, Jenkins, SOAPUI, SonarQube.
-- Content Management Systems - Confluence, Jira, Sharepoint, Agile Central.
-- Code Editors - Eclipse IDE, Intellij, SQL developer, TOAD
-- Other tools - Splunk, Checkmarx, Putty, Filezilla
+- Content Management Systems - Confluence, Jira, Sharepoint, Agile Central (Rally).
+- Code Editors - Eclipse IDE, Intellij, SQL developer, TOAD, Notepad++, SublimeText.
+- OS - Windows, Unix.
+- Other tools used - Splunk, Checkmarx, Putty, Filezilla.
 
 ## Experience
 
