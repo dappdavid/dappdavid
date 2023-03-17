@@ -13,7 +13,7 @@
 - Programming Languages -  Java.
 - Frameworks - Spring Boot, Spring Security, Spring MVC, Spring AOP, Spring Batch, Spring Transaction, Hibernate.
 - API - REST API, SOAP Webservices, GraphQL, RPC.
-- SQL Databases - MySql, OracleDB, PostgreSQL.
+- SQL Databases - MySQL, OracleDB, PostgreSQL.
 - NoSQL Databases - MongoDB, Elasticsearch, Cassandra.
 - Message Brokers - Apache Kafka, RabbitMQ, ActiveMQ
 - Testing - JUnit, Mockito.
