@@ -21,7 +21,7 @@
 - Architectural Patterns - Microservices, Event Driven Architecture, Model View Controller, n-tier application.
 - DevOps - Docker, Kubernetes, CICD using Jenkins.
 - Documentation - OpenAPI (swagger), Confluence.
-- Methodologies - Object-Oriented Programming, Design Patterns,  Data Structures and Algorithms, Agile, Scrum, Waterfall model.
+- Methodologies - Object Oriented Programming, Design Patterns,  Data Structures and Algorithms, Agile, Scrum, Waterfall model.
 
 ## Tools
 
