@@ -27,7 +27,7 @@
 
 - Design Frameworks -  Design Patterns, SOLID principles, ACID, 12 factor app.
 - Servers: Apache Tomcat, Oracle Weblogic, IBM Websphere, Nginx.
-- Version Control Systems - GIT, SVN, BitBucket
+- Version Control Systems - GIT, SVN, BitBucket.
 - Automation Softwares - Maven, Jenkins, SOAPUI, SonarQube.
 - Content Management Systems - Confluence, Jira, Sharepoint, Agile Central (Rally).
 - Code Editors - Eclipse IDE, Intellij, SQL developer, TOAD, Notepad++, SublimeText.
