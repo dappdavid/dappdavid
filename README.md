@@ -12,13 +12,14 @@
 
 - Programming Languages -  Java.
 - Frameworks - Spring Boot, Spring Security, Spring MVC, Spring AOP, Spring Batch, Spring Transaction, Hibernate.
+- Cloud - AWS.
 - API - REST API, SOAP Webservices, GraphQL, RPC.
 - SQL Databases - MySQL, OracleDB, PostgreSQL.
 - NoSQL Databases - MongoDB, Elasticsearch, Cassandra.
-- Message Brokers - Apache Kafka, RabbitMQ, ActiveMQ
+- Message Brokers - Apache Kafka, RabbitMQ, ActiveMQ.
 - Testing - JUnit, Mockito.
 - Caching - Redis, Memcached.
-- Architectural Patterns - Microservices, Event Driven Architecture, Model View Controller, n-tier application.
+- Architectural Patterns - Microservices, Event Driven Architecture, Model View Controller, n-tier applications.
 - DevOps - Docker, Kubernetes, CICD using Jenkins.
 - Documentation - OpenAPI (swagger), Confluence.
 - Methodologies - Object Oriented Programming, Design Patterns,  Data Structures and Algorithms, Agile, Scrum, Waterfall model.
