@@ -33,7 +33,7 @@
 - Content Management Systems - Confluence, Jira, Sharepoint, Agile Central (Rally).
 - Code Editors - Eclipse IDE, Intellij, SQL developer, TOAD, Notepad++, SublimeText.
 - OS - Windows, Unix.
-- Other tools used - Splunk, Checkmarx, Putty, Filezilla, Logstash, Kibana.
+- Other tools used - Postman, Splunk, Checkmarx, Putty, Filezilla, Logstash, Kibana, Jmeter, Fiddler.
 
 ## Experience
 
